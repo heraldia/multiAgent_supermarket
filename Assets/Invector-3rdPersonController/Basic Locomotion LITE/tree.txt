@@ -1,0 +1,27 @@
+|____ Scripts
+| |____ CharacterCreator
+| | |____ Script
+| | | |____ Editor
+| | | | |____ vHelperEditor.cs
+| | | | |____ vCreateBasicCharacterEditor.cs
+| |____ Camera
+| | |____ vThirdPersonCamera.cs
+| | |____ NewBehaviourScript.cs
+| | |____ Editor
+| | | |____ v3rdPersonCameraEditor.cs
+| |____ Generic
+| | |____ vComment.cs
+| | |____ vPickupItem.cs
+| | |____ vDestroyGameObject.cs
+| | |____ vExtensions.cs
+| | |____ Editor
+| | | |____ vEditorHelper.cs
+| |____ CharacterController
+| | |____ vThirdPersonMotor.cs
+| | |____ vThirdPersonAnimator.cs
+| | |____ vThirdPersonInput.cs
+| | |____ vThirdPersonController.cs
+| | |____ Editor
+| | | |____ vCharacterEditor.cs
+| | | |____ vThirdPersonInputEditor.cs
+|____ README_Basic.txt
